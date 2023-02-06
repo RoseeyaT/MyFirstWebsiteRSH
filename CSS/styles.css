@@ -1,0 +1,28 @@
+body {
+    background-color: #EEE9DA;
+}
+
+p{ 
+    color: #6096B4;
+}
+
+hr{ border-style: none; 
+    border-top-style: dotted;
+    border-color:#93BFCF;
+    border-width: 5px; 
+    width: 20%;}
+img{
+    background-color: #93BFCF;
+}
+.mushroom{
+    background-color: whitesmoke;
+}
+
+.circular{
+    border-radius: 100%;
+}
+
+#heading{
+    color: #6096B4;
+    font-style: italic;
+}
